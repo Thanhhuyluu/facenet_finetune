@@ -1,4 +1,4 @@
-# Finetune facenet Project
+# Face Recognition
 
 USE YOUR OWN DATASET
 
