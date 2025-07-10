@@ -1,0 +1,12 @@
+database/
+aug_dir/
+cropped/
+lib/
+split_dataset/
+tensorflow/
+tf_pkg/
+VN-celeb/
+triplets/
+images/
+faceverify-env/
+checkpoints/
